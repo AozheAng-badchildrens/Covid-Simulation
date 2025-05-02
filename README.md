@@ -1,6 +1,6 @@
 # Covid Simulation
-A COVID pandemic simulation.
-You may access the simulation at COVID-SIMULATION
+A COVID pandemic simulation. <br>
+You may access the simulation at [COVID-SIMULATION](https://www.greenfoot.org/scenarios/35091).
 ## Features
 * Parameterization on population, vaccines, masks, and patient zeros
 * The virus evolves so that eventually everyone is infected
