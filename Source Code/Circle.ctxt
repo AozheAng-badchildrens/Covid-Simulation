@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=x\ y\ radius\ color\ visible
+comment1.target=Circle(int,\ int,\ int,\ greenfoot.Color,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=b
+comment5.target=void\ setvisible(boolean)
+comment6.params=
+comment6.target=void\ act()
+numComments=7

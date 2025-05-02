@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Covid19
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Covid19\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=version\ p\ radius\ infectionRate\ visible
+comment1.target=Covid19(int,\ Person,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Covid19\r\n
+numComments=2

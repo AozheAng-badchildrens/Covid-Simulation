@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Teacher
+comment1.params=age\ speed\ initial_probability\ masked\ isPathogen\ vaccinated
+comment1.target=Teacher(int,\ double,\ double,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Teacher\r\n
+comment2.params=
+comment2.target=void\ infectMe()
+comment3.params=
+comment3.target=void\ turnRed()
+comment4.params=
+comment4.target=void\ turnGreen()
+comment5.params=
+comment5.target=void\ getNextPath()
+comment6.params=b
+comment6.target=void\ setSchoolTime(boolean)
+comment7.params=
+comment7.target=boolean\ isInHospital()
+comment8.params=
+comment8.target=boolean\ toHospital()
+comment9.params=
+comment9.target=void\ act()
+numComments=10

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Civilian
+comment1.params=age\ speed\ initial_probability\ masked\ isPathogen\ vaccinated
+comment1.target=Civilian(int,\ double,\ double,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Civilian\r\n
+comment2.params=
+comment2.target=void\ infectMe()
+comment3.params=
+comment3.target=void\ turnRed()
+comment4.params=
+comment4.target=void\ turnGreen()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

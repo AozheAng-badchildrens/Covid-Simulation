@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OldHag
+comment1.params=age\ speed\ initial_probability\ masked\ isPathogen\ vaccinated
+comment1.target=OldHag(int,\ double,\ double,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OldHag\r\n
+comment2.params=
+comment2.target=void\ turnGreen()
+comment3.params=
+comment3.target=void\ turnRed()
+comment4.params=
+comment4.target=void\ infectMe()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
